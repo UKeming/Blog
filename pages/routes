@@ -1,0 +1,14 @@
+const routes = {
+    "home" : {
+        "name" : "Home",
+    },
+    "post" :{
+        "name" : "Posts"
+    },
+    "contact" :{
+        "name" : "Contact Me"
+    }
+
+}
+
+export {routes}
