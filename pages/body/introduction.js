@@ -59,8 +59,8 @@ export function Introduction() {
                         understanding of the full-stack development.
                         <br />
                         <br />
-                        Now, I'm still learning new things, too. 
-                        I'm trying to understand how everything works instead of just learning the technology itself. 
+                        Now, I am still learning new things, too. 
+                        I am trying to understand how everything works instead of just learning the technology itself. 
                         I enjoy the feeling of clearing the fog.
                     </p>
                 </div>
@@ -168,7 +168,7 @@ export function Introduction() {
                             </ul>
                         </div>
                         <div>
-                            King's Defense
+                            King Defense
                             <ul>
                                 <li>
                                     April 12, 2020 - April 15, 2020
@@ -225,7 +225,7 @@ export function Introduction() {
                                     but the game ended up being a half-finished game due to the poor quality of the models.
                                     But nevertheless, I like the game very much.
                                     I specially developed a server and database for this game to store
-                                    the player's pass time ranking.
+                                    the player pass time ranking.
                                 </li>
                             </ul>
                         </div>
