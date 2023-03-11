@@ -145,9 +145,12 @@ a:-webkit-any-link {
 #mb-logo {
   position: absolute;
   height: 2.3em;
+  border-width: 2em;
+  border-color: white;
   border-radius: 50%;
   top: -0.9em;
   left: 40vw;
+
 }
 
 #mb-expand-btn{

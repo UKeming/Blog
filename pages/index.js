@@ -23,7 +23,6 @@ export default function Home() {
     <>
     <Head>
       <title>Keming Blog</title>
-      <link rel="shortcut icon" href="/favicon.ico" />
     </Head>
         <Navigator page = {page}/>
         {(page == 'home') && <Introduction />}
