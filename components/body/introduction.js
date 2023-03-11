@@ -41,7 +41,7 @@ export function Introduction() {
                         <br />
                         I am a boy who loves technology and loves to explore.
                         From a young age I have had a keen interest in computers.
-                        After my compulsory education in China ended, I officially started to learn about computer technology. I first bought a book called C Premier and taught myself C. This was my programming initiation book. After that, I came to the University of Utah. While I was at the university, I took every course seriously and learned many other skills such as Java, C#, and C++.
+                        After my compulsory education in China ended, I officially started to learn about computer technology. I first bought a book called C Premier Plus and taught myself C. This was my programming initiation book. After that, I came to the University of Utah. While I was at the university, I took every course seriously and learned many other skills such as Java, C#, and C++.
                         <br />
                         After that, when I realized that I already had some basic computer skills, I started to find new things to learn on my own.
                         For example, after I took CS1410, CS2420, which are introductory computer
