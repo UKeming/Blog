@@ -29,7 +29,7 @@ export function Introduction() {
         <>
             <div className="article">
                 <p className="title">
-                    About me:
+                    About Me:
                 </p>
                 <div className="content">
                     <img id="personal-img" src="personal-img.jpg"></img>
