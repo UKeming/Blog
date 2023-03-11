@@ -24,7 +24,7 @@
                         I enjoy the feeling of clearing the fog.
                         */
 
-export function Introduction() {
+export default function Introduction() {
     return (
         <>
             <div className="article">

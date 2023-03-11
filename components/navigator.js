@@ -43,7 +43,7 @@ export function Navigator({ page }) {
             <div className="navigator">
                 <ul className="pc-navigator-list">
                     <li style={{marginRight:'6em'}}>
-                        <img id="logo" src="logo2.png"></img>
+                        <img id="logo" src="logo.svg"></img>
                     </li>
 
                     {
@@ -71,7 +71,7 @@ export function Navigator({ page }) {
                         </div>
                     </a>
                     <span>
-                        <img src="logo2.png" id='mb-logo'></img>
+                        <img src="logo.svg" id='mb-logo'></img>
                     </span>
                     <div id="mb-list" className={list == null ? '' : list && size.width <= 1000 ? 'fade-in' : 'fade-out'}>
                         <span id="close-btn"><a onClick={() => setList(false)}>X</a></span>
