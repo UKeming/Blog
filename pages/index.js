@@ -7,6 +7,7 @@ import { Contact } from '../components/body/contact'
 import { useState } from 'react'
 import { useRouter } from 'next/router'
 import { routes } from '../components/routes'
+import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,9 +21,9 @@ export default function Home() {
   }
   return (
     <>
-    <head>
+    <Head>
       <title>Keming Blog</title>
-    </head>
+    </Head>
         <Navigator page = {page}/>
         {(page == 'home') && <Introduction />}
         {(page == 'post') && <Post />}
