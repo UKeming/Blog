@@ -293,7 +293,7 @@ export function Introduction() {
                         </div>
 
                         <div>
-                            Programming teaching software
+                            Programming Teaching Software
                             <ul>
                                 <li>
                                     Nov 15, 2022 - Dec 06, 2022
