@@ -20,6 +20,9 @@ export default function Home() {
   }
   return (
     <>
+    <head>
+      <title>Keming Blog</title>
+    </head>
         <Navigator page = {page}/>
         {(page == 'home') && <Introduction />}
         {(page == 'post') && <Post />}
