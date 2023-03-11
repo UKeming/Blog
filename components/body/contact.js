@@ -8,7 +8,7 @@ export function Contact(){
                 </div>
                 <div className="content">
                     Email: &nbsp;
-                    <a href="mailto: ukeming@icloud.com">ukeming@icloud.com</a>
+                    <a href="mailto:ukeming@icloud.com">ukeming@icloud.com</a>
                 </div>
             </div>
         </div>
