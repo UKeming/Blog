@@ -42,8 +42,8 @@ export function Navigator({ page }) {
         <>
             <div className="navigator">
                 <ul className="pc-navigator-list">
-                    <li>
-                        Head Picture
+                    <li style={{marginRight:'6em'}}>
+                        <img id="logo" src="logo.png"></img>
                     </li>
 
                     {
@@ -70,8 +70,8 @@ export function Navigator({ page }) {
                         <div className='line'>
                         </div>
                     </a>
-                    <span id='mb-logo'>
-                        Keming
+                    <span>
+                        <img src="logo.png" id='mb-logo'></img>
                     </span>
                     <div id="mb-list" className={list == null ? '' : list && size.width <= 1000 ? 'fade-in' : 'fade-out'}>
                         <span id="close-btn"><a onClick={() => setList(false)}>X</a></span>

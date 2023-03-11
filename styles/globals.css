@@ -20,6 +20,15 @@ body {
   padding: 1em;
 }
 
+#logo{
+  top: 0.6em;
+  left: 3em;
+  position: absolute;
+  height: 4em;
+  border-radius: 50%;
+
+}
+
 .pc-navigator-list>li {
   display: inline;
   margin-right: 5em;
@@ -135,8 +144,10 @@ a:-webkit-any-link {
 
 #mb-logo {
   position: absolute;
-  top: -0.4em;
-  left: 35vw;
+  height: 2.3em;
+  border-radius: 50%;
+  top: -0.9em;
+  left: 40vw;
 }
 
 #mb-expand-btn{
