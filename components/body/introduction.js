@@ -125,6 +125,8 @@ export function Introduction() {
                                 <span>C/C++</span>
                                 <span>C#</span>
                                 <span>Spring Boot</span>
+                                <span>Spring MVC</span>
+                                <span>Mybatis</span>
                                 <span>Assembly</span>
                                 <span>Redis</span>
                                 <span>Linux</span>
