@@ -16,12 +16,13 @@ export default function Home() {
   if (page == null || validPage.findIndex(p => p == page) == -1) {
     page = 'home'
   }
+  let title = 'Blog -' + page
   const DynamicArticle = dynamic(() => import("../components/body/" + page))
 
   return (
     <>
       <Head>
-        <title>Blog - {page}</title>
+        <title>{title}</title>
       </Head>
       <Navigator page={page} />
       <DynamicArticle data={router.query} />
