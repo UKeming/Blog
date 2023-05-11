@@ -8,7 +8,7 @@ import routes from '../components/routes'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const validPage = ['home', 'post', 'contact']
+const validPage = ['home','project' ,'post', 'contact']
 
 export default function Home() {
   const router = useRouter()

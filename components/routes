@@ -3,11 +3,14 @@ const routes = {
         "name" : "Home",
     },
     "post" :{
-        "name" : "Posts"
+        "name" : "Post"
+    },
+    "project" :{
+        "name" : "Project"
     },
     "contact" :{
         "name" : "Contact Me"
-    }
+    },
 
 }
 
